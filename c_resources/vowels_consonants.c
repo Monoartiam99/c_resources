@@ -4,7 +4,7 @@ int main()
 {
 char str[100];
 int vowels=0,consonants=0,spaces=0, special=0;
-printf("Enter the string");
+printf("Enter the string: ");
 scanf("%s",str);
 int i;
 for( i =0;str[i]!='\0';i++ )
@@ -27,3 +27,4 @@ printf("Consonants:%d\n",consonants);
 printf("Spaces:%d\n",spaces);
 printf("Special character:%d\n",special);
 return 0;
+}

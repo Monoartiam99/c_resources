@@ -1,6 +1,4 @@
-// Creator: Monojit Nandy
-
-   #include <stdio.h>
+#include <stdio.h>
 
 // Function to calculate factorial of a digit
 int factorial(int n) {
@@ -12,16 +10,15 @@ int factorial(int n) {
 }
 
 int main() {
-    int n, temp, sum = 0, digit;
+    int n, temp, sum = 0;
     printf("Enter a number: ");
     scanf("%d", &n);
     temp = n;
 
     // Calculate the sum of factorial of digits
     while (temp > 0) {
-        digit = temp % 10;
-        sum += factorial(digit);
-        temp /= 10;
+        sum =sum+ factorial(temp % 10);
+        temp =temp/ 10;
     }
 
     // Check if the sum of factorial of digits is equal to the number itself
