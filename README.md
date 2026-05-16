@@ -6,25 +6,25 @@
 
 ## Avoid
 
-**TutorialsPoint.** TutorialsPoint may seem useful for quick reference, but it is not a good place to learn C from. The explanations are shallow, lack context, and often skip over why things work the way they do. Reading it gives you a false confidence that you understand something when you have only memorised the surface.
+- **TutorialsPoint.** TutorialsPoint may seem useful for quick reference, but it is not a good place to learn C from. The explanations are shallow, lack context, and often skip over why things work the way they do. Reading it gives you a false confidence that you understand something when you have only memorised the surface.
 
-**Random YouTube channels.** Most C-related YouTube content is simplified to the point of being misleading. To keep viewers engaged, creators often skip the hard parts — which are exactly the parts that matter most in C. Pointers, memory management, and undefined behaviour are glossed over or explained incorrectly. You may finish a video feeling like you understood, and then find yourself completely lost when writing real code.
+- **Random YouTube channels.** Most C-related YouTube content is simplified to the point of being misleading. To keep viewers engaged, creators often skip the hard parts — which are exactly the parts that matter most in C. Pointers, memory management, and undefined behaviour are glossed over or explained incorrectly. You may finish a video feeling like you understood, and then find yourself completely lost when writing real code.
 
-**Udemy and similar course platforms.** Many of these courses are outdated, expensive, and lack any proof of the author's actual expertise in C. A course that costs $80 is not automatically better than a free textbook written by the people who designed the language.
+- **Udemy and similar course platforms.** Many of these courses are outdated, expensive, and lack any proof of the author's actual expertise in C. A course that costs $80 is not automatically better than a free textbook written by the people who designed the language.
 
-**Copying code without understanding it.** This is perhaps the most dangerous habit a C learner can develop. C gives you direct access to memory. Pasting code you do not fully understand is a reliable way to introduce bugs that are very difficult to trace.
+- **Copying code without understanding it.** This is perhaps the most dangerous habit a C learner can develop. C gives you direct access to memory. Pasting code you do not fully understand is a reliable way to introduce bugs that are very difficult to trace.
 
 ---
 
 ## Consider
 
-**The questions in this repository.** Each question is chosen because it targets a concept that students commonly misunderstand or overlook. Before looking at the answer, genuinely attempt to solve it. Write the code. Compile it. If it does not behave the way you expected, that is the most valuable learning moment — do not skip past it.
+- **The questions in this repository.** Each question is chosen because it targets a concept that students commonly misunderstand or overlook. Before looking at the answer, genuinely attempt to solve it. Write the code. Compile it. If it does not behave the way you expected, that is the most valuable learning moment — do not skip past it.
 
-**K&R — The C Programming Language, 2nd Edition.** Written by Brian Kernighan and Dennis Ritchie, who co-created both C and UNIX. This book is so foundational that it is known universally by the authors' initials alone. It is concise, precise, and written by people who understood C not as a language to be taught, but as a tool they built to solve real problems. Some practices in it are dated by modern standards, so read it alongside the errata and supplement it with the C11 standard where needed.
+- **K&R — The C Programming Language, 2nd Edition.** Written by Brian Kernighan and Dennis Ritchie, who co-created both C and UNIX. This book is so foundational that it is known universally by the authors' initials alone. It is concise, precise, and written by people who understood C not as a language to be taught, but as a tool they built to solve real problems. Some practices in it are dated by modern standards, so read it alongside the errata and supplement it with the C11 standard where needed.
 
-**C Programming: A Modern Approach, 2nd Edition by K. N. King.** This book is arguably the most thorough and well-structured C textbook available today. It covers the language in full, including the C99 standard, and does so with clarity that K&R sometimes lacks for beginners. The exercises at the end of each chapter are genuinely challenging and worth completing in full.
+- **C Programming: A Modern Approach, 2nd Edition by K. N. King.** This book is arguably the most thorough and well-structured C textbook available today. It covers the language in full, including the C99 standard, and does so with clarity that K&R sometimes lacks for beginners. The exercises at the end of each chapter are genuinely challenging and worth completing in full.
 
-**Beej's Guide to C Programming.**
+- **Beej's Guide to C Programming.**
 https://beej.us/guide/bgc/html/split/index.html
 
 Written by Brian "Beej Jorgensen" Hall, this is one of the most approachable and accurate free C guides available online. It is written in a conversational tone that does not talk down to the reader, covers the C11 standard, and is actively maintained. It is an excellent companion to a formal textbook — particularly strong on pointers, strings, and types.
