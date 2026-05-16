@@ -18,35 +18,23 @@
 
 ## Consider
 
-**The questions in this repository.** Each question is chosen because it targets a concept that students commonly misunderstand or overlook. Before looking at the answer, genuinely attempt to solve it. Write the code. Compile it. If it does not behave the way you expected, that is the most valuable learning moment — do not skip past it.
+- Each question is chosen because it targets a concept that students commonly misunderstand or overlook. Before looking at the answer, genuinely attempt to solve it. Write the code. Compile it. If it does not behave the way you expected, that is the most valuable learning moment — do not skip past it.
 
-**K&R — The C Programming Language, 2nd Edition.** Written by Brian Kernighan and Dennis Ritchie, who co-created both C and UNIX. This book is so foundational that it is known universally by the authors' initials alone. It is concise, precise, and written by people who understood C not as a language to be taught but as a tool they built to solve real problems. Some practices in it are dated by modern standards, so read it alongside the errata and supplement it with the C11 standard where needed.
+- **The C Programming Language, 2nd Edition.** Written by Brian Kernighan and Dennis Ritchie, who co-created both C and UNIX. This book is so foundational that it is known universally by the authors' initials alone. It is concise, precise, and written by people who understood C not as a language to be taught but as a tool they built to solve real problems. Some practices in it are dated by modern standards, so read it alongside the errata and supplement it with the C11 standard where needed.
 
-**C Programming: A Modern Approach, 2nd Edition by K. N. King.** This book is arguably the most thorough and well-structured C textbook available today. It covers the language in full, including the C99 standard, and does so with clarity that K&R sometimes lacks for beginners. The exercises at the end of each chapter are genuinely challenging and worth completing in full.
+- Beej's Guide to C Programming: This book is arguably the most thorough and well-structured C textbook available today. It covers the language in full, including the C99 standard, and does so with clarity that K&R sometimes lacks for beginners. The exercises at the end of each chapter are genuinely challenging and worth completing in full. [link](https://beej.us/guide/bgc/html/split/index.html)
+-
+- Written by Brian "Beej Jorgensen" Hall, this is one of the most approachable and accurate free C guides available online. It is written in a conversational tone that does not talk down to the reader, covers the C11 standard, and is actively maintained. It is an excellent companion to a formal textbook — particularly strong on pointers, strings, and types. [link](https://github.com/practical-tutorials/project-based-learning#cc)
 
-**Beej's Guide to C Programming.**
-[link](https://beej.us/guide/bgc/html/split/index.html)
-
-Written by Brian "Beej Jorgensen" Hall, this is one of the most approachable and accurate free C guides available online. It is written in a conversational tone that does not talk down to the reader, covers the C11 standard, and is actively maintained. It is an excellent companion to a formal textbook — particularly strong on pointers, strings, and types.
-
-**Project-Based Learning in C/C++.**
-[link](https://github.com/practical-tutorials/project-based-learning#cc
-)
-Reading about C and writing C are two entirely different things. This curated list of project-based tutorials forces you to build real, working programs — which is where genuine understanding develops. Working through even one or two projects here will expose gaps in your knowledge that no amount of passive reading would reveal.
-
-**The C11 Standard — ISO/IEC 9899:2011 Draft (N1570).**
-[link](https://port70.net/~nsz/c/c11/n1570.html)
-
-This is not a tutorial. It is the formal specification of the C language, and it is the final authority on what C is and is not. When you encounter a behavior you do not understand, or when two sources give you conflicting information, this is where you look. Reading the standard also teaches you to think precisely—a skill that makes you a better programmer in any language.
-
-**The C Book — GBdirect Publications.**
-[link](https://publications.gbdirect.co.uk//c_book/)
-
-Written by Mike Banahan, Declan Brady, and Mark Doran, this is a complete, university-level C textbook available freely online. It covers the type system, expressions, control flow, functions, pointers, structures, and the standard library in systematic detail. It has been used in formal CS courses for decades and holds up well.
-
-**NASA C Style Guide.** NASA publishes guidelines on how to write C code that is safe, readable, and maintainable for critical systems. Reading it gives you a sense of what professional, production-grade C looks like—a very different standard from code that merely compiles and runs.
-
-**Steve Summit's C Programming Notes.** These notes were originally written to accompany university C courses and expand on topics that K&R treats briefly. They are available freely online and are particularly useful for understanding pointer concepts and common beginner mistakes.
+- Reading about C and writing C are two entirely different things. This curated list of project-based tutorials forces you to build real, working programs — which is where genuine understanding develops. Working through even one or two projects here will expose gaps in your knowledge that no amount of passive reading would reveal. [link](https://port70.net/~nsz/c/c11/n1570.html)
+ 
+- This is not a tutorial. It is the formal specification of the C language, and it is the final authority on what C is and is not. When you encounter a behavior you do not understand, or when two sources give you conflicting information, this is where you look. Reading the standard also teaches you to think precisely—a skill that makes you a better programmer in any language. [link](https://publications.gbdirect.co.uk//c_book/)
+ 
+- Written by Mike Banahan, Declan Brady, and Mark Doran, this is a complete, university-level C textbook available freely online. It covers the type system, expressions, control flow, functions, pointers, structures, and the standard library in systematic detail. It has been used in formal CS courses for decades and holds up well.
+ 
+- **NASA C Style Guide.** NASA publishes guidelines on how to write C code that is safe, readable, and maintainable for critical systems. Reading it gives you a sense of what professional, production-grade C looks like—a very different standard from code that merely compiles and runs.
+ 
+- **Steve Summit's C Programming Notes.** These notes were originally written to accompany university C courses and expand on topics that K&R treats briefly. They are available freely online and are particularly useful for understanding pointer concepts and common beginner mistakes.
 
 ---
 
