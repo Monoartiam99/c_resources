@@ -1,6 +1,6 @@
-# C Programming — Questions & Answers
+### C Programming — Questions & Answers
 
-This repository contains a curated collection of C programming questions and answers that are, in my opinion, the most effective way to test and reinforce your understanding of C. There are many ways to study C, but simply reading without actively questioning yourself leads to shallow understanding. This repository exists to fix that — by putting the question first, and letting you think before you look at the answer.
+- This repository contains a curated collection of C programming questions and answers that are, in my opinion, the most effective way to test and reinforce your understanding of C. There are many ways to study C, but simply reading without actively questioning yourself leads to shallow understanding. This repository exists to fix that — by putting the question first, and letting you think before you look at the answer.
 
 ---
 
