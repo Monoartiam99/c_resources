@@ -76,7 +76,7 @@ This repository is based on my own judgement about what questions best target im
 
 <br/>
 
-*Built with 💙 for students who deserve better tools.*
+*Built with 💙 for everyone who deserve better tools and understanding.*
 
 <br/>
 
