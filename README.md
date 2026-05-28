@@ -1,3 +1,29 @@
+<div align="center">
+<br/>
+
+```
+ ██████╗    ██████╗ ██████╗  ██████╗  ██████╗ ██████╗  █████╗ ███╗   ███╗
+██╔════╝   ██╔══██╗██╔══██╗██╔═══██╗██╔════╝ ██╔══██╗██╔══██╗████╗ ████║
+██║        ██████╔╝██████╔╝██║   ██║██║  ███╗██████╔╝███████║██╔████╔██║
+██║        ██╔═══╝ ██╔══██╗██║   ██║██║   ██║██╔══██╗██╔══██║██║╚██╔╝██║
+╚██████╗   ██║     ██║  ██║╚██████╔╝╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║
+ ╚═════╝   ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+```
+
+### 💻 *"C is not a big language, and it is not well served by a big book."*
+#### — Brian W. Kernighan, Dennis M. Ritchie
+
+<br/>
+
+![Platform](https://img.shields.io/badge/PLATFORM-VSCODE-4A90D9?style=for-the-badge&labelColor=333333)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&labelColor=333333)
+![Made For](https://img.shields.io/badge/MADE%20FOR-EVERYONE-blueviolet?style=for-the-badge&labelColor=333333)
+![Language](https://img.shields.io/badge/LANGUAGE-C-orange?style=for-the-badge&labelColor=333333)
+
+<br/>
+
+
+
 ### C Programming — Resources :
 - This repository contains a curated collection of C programming questions and answers that are, in my opinion, the most effective way to test and reinforce your understanding of C. There are many ways to study C, but simply reading without actively questioning yourself leads to shallow understanding. This repository exists to fix that—by putting the question first and letting you think before you look at the answer.
 
