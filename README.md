@@ -71,3 +71,19 @@ Work through the topics in order if you are a beginner. If you are using this to
 ## Contribute
 
 This repository is based on my own judgement about what questions best target important and commonly misunderstood concepts in C. If you believe a question is incorrect, misleading, or that an important topic is missing, please open an issue or submit a pull request. Constructive disagreement is welcome — the goal is accuracy and usefulness for students, not personal authority.
+
+<div align="center">
+
+<br/>
+
+*Built with 💙 for students who deserve better tools.*
+
+<br/>
+
+⭐ **Found this useful? Drop a star — it means a lot and helps others discover the project!** ⭐
+
+<br/>
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Monoartiam99.c_resources)
+
+</div>
