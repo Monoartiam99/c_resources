@@ -49,7 +49,7 @@
 - **The C Programming Language, 2nd Edition.** Written by Brian Kernighan and Dennis Ritchie, who co-created both C and UNIX. This book is so foundational that it is known universally by the authors' initials alone. It is concise, precise, and written by people who understood C not as a language to be taught but as a tool they built to solve real problems. Some practices in it are dated by modern standards, so read it alongside the errata and supplement it with the C11 standard where needed.
 
 - Beej's Guide to C Programming: This book is arguably the most thorough and well-structured C textbook available today. It covers the language in full, including the C99 standard, and does so with clarity that K&R sometimes lacks for beginners. The exercises at the end of each chapter are genuinely challenging and worth completing in full. [link](https://beej.us/guide/bgc/html/split/index.html)
--
+
 - Written by Brian "Beej Jorgensen" Hall, this is one of the most approachable and accurate free C guides available online. It is written in a conversational tone that does not talk down to the reader, covers the C11 standard, and is actively maintained. It is an excellent companion to a formal textbook — particularly strong on pointers, strings, and types. [link](https://github.com/practical-tutorials/project-based-learning#cc)
 
 - Reading about C and writing C are two entirely different things. This curated list of project-based tutorials forces you to build real, working programs — which is where genuine understanding develops. Working through even one or two projects here will expose gaps in your knowledge that no amount of passive reading would reveal. [link](https://port70.net/~nsz/c/c11/n1570.html)
